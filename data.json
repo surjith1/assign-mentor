@@ -1,0 +1,14 @@
+[{
+	"name": "Mr.Kiran",
+	"email": "kiran@gmail.com",
+	"phone": "1236547858",
+	"experience": 6,
+	"strength": 35,
+	"students": {
+		"name": [
+			"arun",
+			"sharma",
+			"kavi"
+		]
+	}
+}]
